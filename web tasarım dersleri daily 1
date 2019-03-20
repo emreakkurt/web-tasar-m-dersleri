@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+<title>Yönetim Bilişim Sistemleri</title>
+
+<meta charset="UTF-8">
+</head>
+<body>
+
+<div class="menu">
+<img alt="logo" src="logo.png" id="logo" width="90" height="90"><p>BİKİNİ BOTTOM GENÇLİK</p>
+  <div id="menu-butons">
+  <a class="aktif" href="#">Ana Sayfa</a>
+  <a href="#">burgerler</a>
+  <a href="#">sevdiğimkişiler</a>
+  <a href="#">bikinibottomaotobüsbiletleri</a>
+ </div>
+<div class="süngerbob ve ailesi">
+
+	<ul>
+		<li>çook neşeliyimm</li>
+		<li>asla ama asla kavga etmem</li>
+		<li>ı love paaattriiiickk</li>
+	</ul>
+<h1><a href="http://origin.www.nickelodeon.com.tr/"NİCKELODEON</a></h1>
+<li><a href="">liste elemanı 2</a></li>
+	<h1>süngerbob</h1>
+<a href="http://www.google.com"	target="_blank">"<img src="sünger.png" 	width="450px" height="450px"	rel=""	alt="Süngerbob karepantolon"> 
+
+	<h1>Patrick</h1>
+	<br><img src="patrick.png" width="450px"	height="450px"	rel="Patrick Star"	alt="Patrick Star süngerbobu çok seveeer"></br>
+	<ul>
+		<li>süngerbobu çok severim</li>
+		<li>squidwardı delirtmekten hiç hoşlanmam</li>
+		<li>hambuger için evini satarımmmm</li>
+	</ul>
+	<h1>Squidward</h1>
+	<br><img src="squidward.gif" width="250px" height="250px"	rel="squidward"	alt="squidward"></br>
+		<ul>
+				<li>ı just wanna kill spongebob and patrick</li>
+				<li> ı hate mr.crab</li>
+				<li>ı hate everyone</li>
+		</ul>
+</body>
+</html>
