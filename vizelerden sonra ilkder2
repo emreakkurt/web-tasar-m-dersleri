@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+<link href="cssdersi.css" rel="stylesheet">
+<title></title>
+</head>
+<body>
+<div>
+<ul>
+<li><a href="http://www.google.com">Google</a></li>
+<li><a href="http://www.google.com">yandex</a></li>
+<li><a href="http://www.google.com">mozilla</a></li>
+</ul>
+</div>
+<a href="http://www.deu.edu.tr"<DEU</a>
+
+<h2>BU BIR IKINCI<em>dereceden</em>header</h2>
+<h2>BU BIR IKINCI<strong><em>dereceden</em></strong>header</h2
+</body>
+</html>
+
+
+css kısmı
+div u li a{
+	color:green;
+}
+h2 em{
+	color:blue;
+}
+h2>em{
+	color:red;
+}
