@@ -1,1 +1,39 @@
 
+/*Seçiciler*/
+/*etiket seçicisi*/
+
+h1,h2{
+	color:#551122;
+	font-size:12px
+}
+
+/* class seçicisi*/
+.deneme{
+	color:#998822;
+	font-size:25px;
+}
+
+/* ID seçicisi*/
+#ad{
+	color:#447711;
+	font-size:45px;
+}
+/* Evrensel Seçici*/
+*{
+	margin-left:200px;
+}
+
+
+
+/*Göreceli uzunluk birimleri
+em:Objeninfont büyüklşüğü ile ilişkisidir
+ex:mevcut fontun x-height ölçüsü kadar demektir
+%:yüzde oranı ise yine objenin % büyüklüğüdür
+
+Mutlak Uzunluk Birimleri
+cm:santimetre
+mm:milimetre
+in:inç
+px:piksel
+pt:pointer
+pc:picas
