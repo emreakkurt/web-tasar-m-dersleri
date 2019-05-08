@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+<link href="ders2.css" rel="stylesheet">
+<title>YBS</title>
+</head>
+<body>
+<div>
+<ul>
+<li><a href="http://www.google.com">Google</a></li>
+<li><a href="http://www.google.com">yandex</a></li>
+<li><a href="http://www.google.com">mozilla</a></li>
+</ul>
+</div>
+</body>
+</html>
+
+/*css*/
+ul li{
+	list-style-type:none;
+}
+a:link{
+	tex-decoration:none;
+}
+a:hover{
+	color:red;
+}
+a:visited{
+	color:orange;
+}
+a:active{
+	color:blue;
+}
